@@ -33,7 +33,7 @@ There are different levels od Security:
 
 ![Screenshot 2024-02-28 at 13 39 08](https://github.com/redjules/Integrate-SAST-Scans-in-Release-Pipeline/assets/106017493/8bccea5f-0e50-40e1-95c0-17aab215da66)
 
-we will another test: semgrep
+we will do another test: semgrep
 
 ![Screenshot 2024-02-28 at 13 39 55](https://github.com/redjules/Integrate-SAST-Scans-in-Release-Pipeline/assets/106017493/79cf919f-5fc7-42e5-a3bb-dafe02b0c235)
 
